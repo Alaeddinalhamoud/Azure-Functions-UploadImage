@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Part 1 to 3 - Upload Image to Local File Server/Shop/Shop.UI/bin/Debug/net8.0
+/Part 1 to 3 - Upload Image to Local File Server/Shop/Shop.UI/obj
+/Part 1 to 3 - Upload Image to Local File Server/Shop/.vs
+/.vs
